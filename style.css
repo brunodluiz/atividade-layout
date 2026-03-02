@@ -1,27 +1,26 @@
-body {
-    background-color: dodgerblue;
+.yo{
+padding: 50;
+margin: 20;
+background-color: rgb(187, 184, 28);
+
+}
+.flex{
+display: flex;
+}
+.purple{
+background-color: rgb(95, 132, 233);
+display: flex;
+justify-content: center;
+padding: 30px:
+}
+.blue{
+background-color: ;
+padding: 20px;
+margin: 30px;
 }
 
-.centralizar {
-    max-width: 660px;
-    margin: 0 auto;
+.red{
+padding: 50px;
+margin: 20px;
 }
 
-.amarela {
-    background-color: yellow;
-    padding: 100px;
-    margin: 10px;
-    box-sizing: border-box;
-}
-
-.esticar {
-    padding-right: 320px;
-}
-
-.alongar {
-    padding-top: 300px;
-}
-
-.flex {
-    display: flex;
-}
