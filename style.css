@@ -7,33 +7,22 @@ background-color: aliceblue;
 .flex{
 display: flex;
 }
-.purple{
+.black{
 background-color: rgb(95, 132, 233);
 display: flex;
 justify-content: center;
 padding: 30px:
 }
-.blue{
+.white{
 background-color: ;
 padding: 20px;
 margin: 30px;
 }
-
-.black{
-background-color: ;
-display: flex;
-justify-content: center;
-padding: 30px;
+.red{
+background-color: chocolate;
+padding: 80px;
 }
 
-.white{
-
-background-color: ;
-padding:20px
-
-
-
-}
 
 
 
